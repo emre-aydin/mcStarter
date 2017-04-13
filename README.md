@@ -1,6 +1,6 @@
 # mcStarter
 
-Update src/main/java/tech/aydin/mcstarter/App.java and point to your `mancenter.war` file.
+Update [src/main/java/tech/aydin/mcstarter/App.java](https://github.com/emre-aydin/mcStarter/blob/master/src/main/java/tech/aydin/mcstarter/App.java) and point to your `mancenter.war` file.
 
 Build the project:
 
